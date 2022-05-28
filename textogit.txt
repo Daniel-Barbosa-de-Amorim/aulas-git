@@ -1,0 +1,34 @@
+commit = é a forma de salvar um estado ou versão do nosso código/arquivo.
+git add . = adiciona arquivos para serem commitados.
+Branch = ramo
+
+Head = o local que estamos com o git
+git log = Mostra todos os dados do git ao qual esteja trabalhando
+git log --online = Mostra todos os dados do git ao qual esteja trabalhando
+			em uma única linha de forma resumida
+
+git log --p = Mostra todo o histórico do git, passo a passo. Para sair deste
+		  histórico aperte a tecla Q.
+clear = limpa a tela ou ctrl+l
+
+sites de comando
+https://devhints.io/git-log
+
+
+cd .. = Sobe uma pasta, uma pasta anterior ao que está trabalhando.
+mkdir = cria uma nova pasta
+git init --bare = isto indica que o repostirório é puro e não contém
+			cópias dos arquivos.
+
+git remote add = criar servidores remotos, e sempre será acrescentado
+		     o endereço, seja local, url de sites, etc.
+git remote = mostra os servidores
+git remote -v = mostra o endereço dos servidores, onde ele está
+git clone = copia o conteúdo de uma pasta para a outra. De um servidor
+		para outro local.
+
+
+
+
+
+
